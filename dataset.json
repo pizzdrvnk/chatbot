@@ -1,0 +1,378 @@
+{
+    "intents": [
+      {
+        "tag": "produk",
+        "patterns": [
+            "1",
+            "produk yang dijual",
+            "ada produk apa saja",
+            "jenis lampu yang ada",
+            "produk yang tersedia",
+            "Boleh minta daftar produk yang ada",
+            "Saya ingin tahu jenis-jenis produk yang tersedia.",
+            "Produk apa yang sediakan",
+            "Ada produk apa saja",
+            "produk apa yang dijual",
+            "Jenis produk apa yang tersedia untuk dijual",
+            "daftar produk",
+            "l300",
+            "grandmax",
+            "futura",
+            "carry",
+            "t120ss"
+        ],
+        "responses": [
+          "Produk kami meliputi custom stoplamp untuk mobil-mobil seperti:\n- L300\n- GRANMAX\n- FUTURA\n- CARRY\n- T120SS\n- APV\n- SEIN RUNNING\nKami juga menerima pesanan khusus untuk jenis mobil lainnya.",
+          "Ya, kami memiliki berbagai jenis lampu belakang termasuk untuk:\n- L300\n- GRANMAX\n- FUTURA\n- CARRY\n- T120SS\n- APV\n- SEIN RUNNING\nKami juga dapat membuat custom untuk mobil lainnya.",
+          "Tentu saja, kami menyediakan lampu belakang untuk berbagai mobil seperti:\n- L300\n- GRANMAX\n- FUTURA\n- CARRY\n- T120SS\n- APV\n- SEIN RUNNING\nKami siap untuk custom produk sesuai kebutuhan Anda.",
+          "Kami memiliki lampu belakang untuk mobil-mobil seperti:\n- L300\n- GRANMAX\n- FUTURA\n- CARRY\n- T120SS\n- APV\n- SEIN RUNNING\nJika Anda membutuhkan lampu belakang untuk mobil lainnya, kami juga dapat membuatkan sesuai permintaan."
+        ]
+      },  
+      {
+        "tag": "harga",
+      "patterns": [
+        "2",
+        "harga",
+        "Berapa harga stoplamp",
+        "Harga stoplamp berapa",
+        "ada model apa saja"
+      ],
+      "responses": [
+        "Kami menyediakan 2 model:\n- Model Pendek Rp 330.000,\n- model Panjang Rp 880.000.\nUntuk pemesanan custom, anda bisa menghubungi admin kami untuk informasi lebih lanjut.",
+        "Harga stoplamp untuk model pendek Rp 330.000, dan untuk model panjang Rp 880.000.\nUntuk pemesanan custom, anda bisa menghubungi admin kami untuk informasi lebih lanjut.",
+        "Model pendek stoplamp dijual dengan harga Rp 330.000, sementara model panjang seharga Rp 880.000.\nUntuk pemesanan custom anda bisa menghubungi admin kami untuk informasi lebih lanjut.",
+        "Stoplamp model pendek: Rp 330.000, model panjang: Rp 880.000.\nUntuk pemesanan custom, anda bisa menghubungi admin kami untuk informasi lebih lanjut.",
+        "Jika Anda mencari stoplamp model pendek, harganya Rp 330.000. Untuk model panjang, harganya Rp 880.000.\nUntuk pemesanan custom, anda bisa menghubungi admin kami untuk informasi lebih lanjut.",
+        "Kami menjual stoplamp model pendek seharga Rp 330.000 dan model panjang seharga Rp 880.000.\nUntuk pemesanan custom, anda bisa menghubungi admin kami untuk informasi lebih lanjut."
+      ]
+      },
+      {
+        "tag": "diskon",
+        "patterns": [
+            "3",
+            "diskon",
+            "Berapa diskon",
+            "promo",
+            "Diskon apa saja yang tersedia",
+            "Ada promo",
+            "Ada diskon",
+            "Diskon apa saja yang tersedia",
+            "Apakah ada promo",
+            "Diskon berapa",
+            "Promo apa yang tersedia",
+            "Apakah ada diskon untuk pembelian banyak",
+            "Apakah ada diskon saat ini",
+            "Apa ada potongan harga",
+            "Bisa dapat diskon"
+        ],
+        "responses": [
+            "Kami menawarkan diskon 20% untuk pembelian di atas Rp 1.000.000.",
+            "Jika Anda melakukan pembelian di atas Rp 1.000.000, Anda akan mendapatkan diskon 20%.",
+            "Ada diskon 20% untuk setiap pembelian yang melebihi Rp 1.000.000.",
+            "Diskon 20% tersedia untuk pembelian dengan total lebih dari Rp 1.000.000.",
+            "Pembelian di atas Rp 1.000.000 akan mendapatkan diskon 20%.",
+            "Untuk pembelian di atas Rp 1.000.000, kami memberikan diskon 20%.",
+            "Nikmati diskon 20% untuk setiap pembelian di atas Rp 1.000.000."
+        ]
+      },
+      {
+        "tag": "pemesanan",
+        "patterns": [
+          "4",
+          "pemesanan",
+          "memesan",
+          "cara pemesanan",
+          "Bagaimana cara memesan",
+          "Saya ingin memesan",
+          "Cara pemesanan stoplamp bagaimana",
+          "Bagaimana cara order",
+          "Dimana saya bisa memesan"
+        ],
+        "responses": [
+          "Anda bisa memesan stoplamp melalui marketplace Shopee atau langsung menghubungi WhatsApp Admin kami.\nShopee: <a href='https://shopee.co.id/jayacustom11' target='_blank'>jayacustom11.</a>\nWhatsApp: <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>",
+          "Pemesanan dapat dilakukan melalui Shopee atau dengan menghubungi WhatsApp Admin.\nShopee: <a href='https://shopee.co.id/jayacustom11' target='_blank'>jayacustom11.</a>\nWhatsApp: <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>",
+          "Silakan pesan stoplamp melalui marketplace Shopee atau hubungi WhatsApp Admin untuk pemesanan langsung.\nShopee: <a href='https://shopee.co.id/jayacustom11' target='_blank'>jayacustom11.</a>\nWhatsApp: <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>",
+          "Anda bisa memesan melalui Shopee atau langsung ke WhatsApp Admin kami.\nShopee: <a href='https://shopee.co.id/jayacustom11' target='_blank'>jayacustom11.</a>\nWhatsApp: <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>",
+          "Untuk pemesanan, Anda bisa menggunakan marketplace Shopee atau menghubungi WhatsApp Admin kami.\nShopee: <a href='https://shopee.co.id/jayacustom11' target='_blank'>jayacustom11.</a>\nWhatsApp: <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>",
+          "Pemesanan stoplamp bisa dilakukan melalui Shopee atau dengan menghubungi WhatsApp Admin.\nShopee: <a href='https://shopee.co.id/jayacustom11' target='_blank'>jayacustom11.</a>\nWhatsApp: <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>"
+        ]
+      },
+      {
+        "tag": "lokasi",
+        "patterns": [
+          "5",
+          "lokasi",
+          "Dimana lokasi perusahaan",
+          "Alamat perusahaan",
+          "Lokasi perusahaan di mana",
+          "Di mana kantor berada",
+          "Kantor ada di mana",
+          "Alamat lengkap perusahaan",
+          "Dimana workshop berada",
+          "Lokasi workshop",
+          "Alamat lengkap workshop"
+        ],
+        "responses": [
+          "Tempat workshop kami ada di Desa Baleagung RT03/05, Kecamatan Grabag, Kabupaten Magelang.",
+          "Perusahaan Jaya Custom Stoplamp berlokasi di Desa Baleagung RT03/05, Kec. Grabag, Kab. Magelang.",
+          "Lokasi kami terletak di Desa Baleagung RT03/05, Kec. Grabag, Kab. Magelang.",
+          "Anda dapat menemukan kami di Desa Baleagung RT03/05, Kec. Grabag, Kab. Magelang.",
+          "Alamat lengkap kami ada di Desa Baleagung RT03/05, Kec. Grabag, Kab. Magelang.",
+          "Kami berlokasi di Desa Baleagung RT03/05, Kec. Grabag, Kab. Magelang."
+        ]
+      },
+      {
+        "tag": "hubungi_admin",
+        "patterns": [
+          "6",
+          "admin",
+          "hubungi admin",
+          "nomor admin",
+          "Bagaimana cara menghubungi admin",
+          "Hubungi admin bagaimana",
+          "Kontak admin",
+          "Nomor admin",
+          "Admin bisa dihubungi via WhatsApp",
+          "Admin bisa dihubungi di nomor berapa",
+          "Nomor WhatsApp admin"
+        ],
+        "responses": [
+          "Anda bisa menghubungi admin kami melalui WhatsApp di nomor <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>",
+          "Silakan hubungi admin kami di WhatsApp dengan nomor <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>",
+          "Admin dapat dihubungi via WhatsApp di nomor <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>",
+          "Untuk menghubungi admin, silakan gunakan WhatsApp dengan nomor <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>",
+          "Nomor WhatsApp admin kami adalah <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>",
+          "Hubungi admin melalui WhatsApp di nomor <a href='https://wa.me/6285802485532' target='_blank'>085802485532</a> untuk informasi lebih lanjut.",
+          "Anda dapat menghubungi admin kami langsung melalui WhatsApp di nomor <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>"
+        ]
+      },
+      {
+        "tag": "media_sosial",
+        "patterns": [
+          "7",
+          "media sosial",
+          "sosial media",
+          "sosmed",
+          "Apa media sosial",
+          "Media sosial yang digunakan",
+          "Akun media sosial",
+          "Tautan media sosial"
+        ],
+        "responses": [
+          "Kami aktif di beberapa platform media sosial seperti \n- Shopee: <a href=’https://shopee.co.id/jayacustom11’ target=’_blank’>jayacustom11</a>\n- TikTok: <a href=’https://www.tiktok.com/@jayacustomis_from_webapp=1&sender_device=pc’ target=’_blank’>jayacustom</a>\n- Instagram: <a href=’ https://www.instagram.com/jayacustom11igsh=YzBmcHdxanF3bzdo’ target=’_blank’>jayacustom11</a>\n- YouTube: <a href=’https://youtube.com/@jayacustomproductionsi=wHKZgzGbGTxrs6-X’ target=’_blank’>jayacustomproduction</a>",
+          "Anda bisa menemukan kami di \n- Shopee: <a href=’https://shopee.co.id/jayacustom11’ target=’_blank’>jayacustom11</a>\n- TikTok: <a href=’https://www.tiktok.com/@jayacustomis_from_webapp=1&sender_device=pc’ target=’_blank’>jayacustom</a>\n- Instagram: <a href=’ https://www.instagram.com/jayacustom11igsh=YzBmcHdxanF3bzdo’ target=’_blank’>jayacustom11</a>\n- YouTube: <a href=’https://youtube.com/@jayacustomproductionsi=wHKZgzGbGTxrs6-X’ target=’_blank’>jayacustomproduction</a>",
+          "Perusahaan kami memiliki akun di \n- Shopee: <a href=’https://shopee.co.id/jayacustom11’ target=’_blank’>jayacustom11</a>\n- TikTok: <a href=’https://www.tiktok.com/@jayacustomis_from_webapp=1&sender_device=pc’ target=’_blank’>jayacustom</a>\n- Instagram: <a href=’ https://www.instagram.com/jayacustom11igsh=YzBmcHdxanF3bzdo’ target=’_blank’>jayacustom11</a>\n- YouTube: <a href=’https://youtube.com/@jayacustomproductionsi=wHKZgzGbGTxrs6-X’ target=’_blank’>jayacustomproduction</a>",
+          "Kami dapat ditemukan di \n- Shopee: <a href=’https://shopee.co.id/jayacustom11’ target=’_blank’>jayacustom11</a>\n- TikTok: <a href=’https://www.tiktok.com/@jayacustomis_from_webapp=1&sender_device=pc’ target=’_blank’>jayacustom</a>\n- Instagram: <a href=’ https://www.instagram.com/jayacustom11igsh=YzBmcHdxanF3bzdo’ target=’_blank’>jayacustom11</a>\n- YouTube: <a href=’https://youtube.com/@jayacustomproductionsi=wHKZgzGbGTxrs6-X’ target=’_blank’>jayacustomproduction</a> untuk berbagai informasi dan promosi.",
+          "Anda dapat mengikuti kami \n- Shopee: <a href=’https://shopee.co.id/jayacustom11’ target=’_blank’>jayacustom11</a>\n- TikTok: <a href=’https://www.tiktok.com/@jayacustomis_from_webapp=1&sender_device=pc’ target=’_blank’>jayacustom</a>\n- Instagram: <a href=’ https://www.instagram.com/jayacustom11igsh=YzBmcHdxanF3bzdo’ target=’_blank’>jayacustom11</a>\n- YouTube: <a href=’https://youtube.com/@jayacustomproductionsi=wHKZgzGbGTxrs6-X’ target=’_blank’>jayacustomproduction</a>\nUntuk konten-konten menarik seputar produk kami.",
+          "Sosial media yang kami gunakan antara lain \n- Shopee: <a href=’https://shopee.co.id/jayacustom11’ target=’_blank’>jayacustom11</a>\n- TikTok: <a href=’https://www.tiktok.com/@jayacustomis_from_webapp=1&sender_device=pc’ target=’_blank’>jayacustom</a>\n- Instagram: <a href=’ https://www.instagram.com/jayacustom11igsh=YzBmcHdxanF3bzdo’ target=’_blank’>jayacustom11</a>\n- YouTube: <a href=’https://youtube.com/@jayacustomproductionsi=wHKZgzGbGTxrs6-X’ target=’_blank’>jayacustomproduction</a>",
+          "Anda bisa mengunjungi akun sosial media kami untuk update terbaru tentang produk kami.\n- Shopee: <a href=’https://shopee.co.id/jayacustom11’ target=’_blank’>jayacustom11</a>\n- TikTok: <a href=’https://www.tiktok.com/@jayacustomis_from_webapp=1&sender_device=pc’ target=’_blank’>jayacustom</a>\n- Instagram: <a href=’ https://www.instagram.com/jayacustom11igsh=YzBmcHdxanF3bzdo’ target=’_blank’>jayacustom11</a>\n- YouTube: <a href=’https://youtube.com/@jayacustomproductionsi=wHKZgzGbGTxrs6-X’ target=’_blank’>jayacustomproduction</a>"
+        ]
+      },
+      {
+        "tag": "pengiriman",
+        "patterns": [
+          "8",
+          "opsi pengiriman",
+          "pilihan ekspedisi",
+          "ekspedisi",
+          "pengiriman",
+          "Pengiriman menggunakan apa",
+          "pengiriman lewat apa",
+          "Pengiriman dilakukan melalui apa",
+          "Berapa lama pengiriman",
+          "Estimasi waktu pengiriman",
+          "Pengiriman berapa lama",
+          "Kapan barang sampai",
+          "Lama pengiriman",
+          "pengiriman",
+          "kapan barang dikirim",
+          "Waktu pengiriman",
+          "estimasi pengiriman",
+          "estimasi",
+          "pengiriman barang",
+          "kirim"
+      ],
+      "responses": [
+          "Kami menggunakan jasa pengiriman terpercaya seperti JNE, J&T, TIKI, dan Pos Indonesia. Pengiriman dapat dilakukan ke seluruh Indonesia. Estimasi waktu pengiriman kami adalah sekitar 3-7 hari kerja tergantung lokasi tujuan.",
+          "Pengiriman dilakukan melalui JNE, J&T, TIKI, atau Pos Indonesia. Kami mengirim ke seluruh wilayah Indonesia. Pengiriman biasanya memakan waktu antara 3 hingga 7 hari kerja, tergantung pada wilayah Anda.",
+          "Untuk pengiriman, kami menggunakan JNE, J&T, TIKI, dan Pos Indonesia. Barang dapat dikirim ke seluruh Indonesia. Anda dapat mengharapkan barang tiba dalam 3-7 hari kerja setelah pembayaran dikonfirmasi.",
+          "Kami bekerja sama dengan jasa pengiriman seperti JNE, J&T, TIKI, dan Pos Indonesia. Pengiriman bisa dilakukan ke seluruh Indonesia. Pengiriman akan memakan waktu sekitar 3-7 hari kerja.",
+          "Pengiriman menggunakan JNE, J&T, TIKI, atau Pos Indonesia dan dapat dilakukan ke seluruh Indonesia. Estimasi waktu pengiriman kami adalah sekitar 3-7 hari kerja tergantung lokasi tujuan.",
+          "Kami mengirim barang melalui JNE, J&T, TIKI, atau Pos Indonesia ke seluruh Indonesia. Pengiriman biasanya memakan waktu antara 3 hingga 7 hari kerja, tergantung pada wilayah Anda."
+      ]
+      },
+      {
+        "tag": "pembayaran",
+        "patterns": [
+          "pembayaran",
+          "bayar",
+          "membayar",
+          "metode pembayaran",
+          "bisa bayar dengan apa",
+          "pembayaran melalui apa",
+          "cara pembayarannya",
+          "metode pembayaran apa saja yang tersedia",
+          "bisa bayar pakai apa",
+          "bagaimana cara bayar",
+          "pembayaran bisa lewat mana"
+        ],
+        "responses": [
+          "Anda bisa melakukan pembayaran melalui \n- Transfer Bank\n- ShopeePay\n- Aplikasi Dana.",
+          "Kami menerima pembayaran melalui \n- Transfer Bank\n- ShopeePay\n- Aplikasi Dana.",
+          "Metode pembayaran yang tersedia meliputi \n- Transfer Bank\n- ShopeePay\n- Aplikasi Dana.",
+          "Anda dapat membayar menggunakan \n- Transfer Bank\n- ShopeePay\n- Aplikasi Dana",
+          "Pembayaran bisa dilakukan melalui \n- Transfer Bank\n- ShopeePay\n- Aplikasi Dana."
+        ]
+      },
+      {
+        "tag": "spek_produk",
+        "patterns": [
+          "Spesifikasi produk",
+          "spesifikasi",
+          "material",
+          "material produk",
+          "informasi produk",
+          "spek barang"
+        ],
+        "responses": [
+          "Spesifikasi produk kami mencakup bahan berkualitas tinggi, desain tahan air, dan instalasi mudah. Setiap stoplamp dilengkapi dengan garansi 6 bulan.",
+          "Produk kami dibuat dengan bahan berkualitas, tahan air, dan mudah dipasang. Setiap stoplamp dilengkapi dengan garansi 6 bulan.",
+          "Stoplamp kami memiliki desain tahan air, mudah dipasang, dan dibuat dari bahan berkualitas tinggi. Garansi 6 bulan disertakan.",
+          "Kami menggunakan bahan berkualitas tinggi, desain tahan air, dan instalasi mudah untuk stoplamp kami. Garansi 6 bulan juga disertakan.",
+          "Setiap stoplamp yang kami jual dibuat dari bahan berkualitas, tahan air, dan mudah dipasang. Garansi 6 bulan juga tersedia.",
+          "Stoplamp kami terbuat dari bahan berkualitas tinggi, memiliki desain tahan air, dan mudah untuk dipasang. Garansi 6 bulan disertakan."
+        ]
+      },
+      {
+        "tag": "refund",
+        "patterns": [
+          "pengembalian",
+          "dikembalikan",
+          "jika ada cacat bagaimana pengembaliannya",
+          "jika ada yang tidak sesuai",
+          "apakah barang bisa ditukar",
+          "penukaran barang jika tidak sesuai",
+          "apakah dapat melakukan pengembalian barang",
+          "Kebijakan pengembalian",
+          "Syarat pengembalian barang",
+          "Cara mengembalikan barang",
+          "Bagaimana dengan pengembalian",
+          "Apakah bisa dikembalikan",
+          "Pengembalian barang"
+        ],
+        "responses": [
+          "Kebijakan pengembalian kami memungkinkan untuk pengembalian barang dalam 3 hari setelah barang diterima, dengan syarat barang masih dalam kondisi baik dan belum digunakan. Silakan hubungi layanan pelanggan kami untuk informasi lebih lanjut.",
+          "Anda dapat mengembalikan barang yang belum digunakan dalam waktu 3 hari setelah barang diterima. Pastikan barang dalam kondisi baik dan lengkap dengan kemasan aslinya. Hubungi kami untuk prosedur lebih lanjut.",
+          "Kami menerima pengembalian barang dalam waktu 3 hari setelah barang diterima, asalkan barang masih dalam kondisi baru dan tidak digunakan. Mohon hubungi kami untuk bantuan lebih lanjut terkait prosedur pengembalian.",
+          "Untuk pengembalian barang, Anda dapat melakukannya dalam 3 hari setelah barang diterima, dengan syarat barang masih dalam kondisi baik dan lengkap dengan kemasan aslinya. Silakan hubungi layanan pelanggan untuk panduan lebih lanjut."
+        ]
+      },
+      {
+        "tag": "produk_custom",
+        "patterns": [
+          "Bisa custom produk",
+          "Pemesanan custom",
+          "Bisa buat custom",
+          "Produk custom",
+          "Lampu custom",
+          "custom"
+        ],
+        "responses": [
+          "Kami menerima pesanan custom untuk stoplamp sesuai kebutuhan Anda. Silakan hubungi admin kami untuk informasi lebih lanjut. WhatsApp: <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>",
+          "Untuk pemesanan custom, Anda bisa menghubungi admin kami melalui WhatsApp di nomor <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>",
+          "Kami dapat membuat stoplamp custom sesuai permintaan Anda. Hubungi admin kami untuk detail lebih lanjut. WhatsApp: <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>",
+          "Jika Anda ingin memesan stoplamp custom, silakan hubungi admin kami di nomor <a href='https://wa.me/6285802485532' target='_blank'>085802485532.</a>"
+        ]
+      },
+      {
+        "tag": "waktu_opr",
+        "patterns": [
+          "Jam operasional",
+          "Kapan buka",
+          "Jam buka",
+          "Jam kerja",
+          "Buka jam berapa"
+        ],
+        "responses": [
+          "Jam operasional kami adalah dari jam 08.00 hingga 16.00 setiap hari.",
+          "Kami buka setiap hari dari jam 08.00 hingga 16.00.",
+          "Waktu operasional kami adalah dari jam 08.00 sampai 16.00 setiap hari.",
+          "Kami buka dari jam 08.00 hingga 16.00 setiap hari."
+        ]
+      },
+      {
+        "tag": "stok",
+        "patterns": [
+          "barang apa yang ready stok",
+          "ready stok",
+          "stock",
+          "stok",
+          "Apakah produk ini tersedia?",
+          "Ada stok untuk produk ini?",
+          "Produk ini masih ada?",
+          "Apakah masih ada lampu belakang L300?",
+          "Stok lampu belakang masih ada?",
+          "Produk yang ready stock apa saja?",
+          "Dimana saya bisa cek produk yang tersedia?",
+          "Apakah produk ini ready stock?"
+        ],
+        "responses": [
+          "Untuk melihat produk yang ready stock atau tersedia, Anda dapat mengunjungi toko kami di Shopee. Berikut tautannya: <a href='https://shopee.co.id/jayacustom11' target='_blank'>jayacustom11.</a>",
+          "Produk yang tersedia dapat Anda lihat di marketplace Shopee kami. Silakan kunjungi toko kami di Shopee: <a href='https://shopee.co.id/jayacustom11' target='_blank'>jayacustom11.</a>",
+          "Untuk informasi mengenai produk yang tersedia, kunjungi toko Shopee kami melalui tautan berikut: <a href='https://shopee.co.id/jayacustom11' target='_blank'>jayacustom11.</a>",
+          "Anda dapat melihat produk yang ready stock di toko Shopee kami. Klik di sini untuk langsung menuju toko kami: <a href='https://shopee.co.id/jayacustom11' target='_blank'>jayacustom11.</a>",
+          "Silakan cek ketersediaan produk di toko Shopee kami melalui tautan berikut: <a href='https://shopee.co.id/jayacustom11' target='_blank'>jayacustom11.</a>"
+        ]
+      },
+      {
+        "tag": "menu",
+        "patterns": [
+            "0",
+            "menu",
+            "daftar menu",
+            "Menu utama",
+            "Lihat menu",
+            "Apa yang ada di menu"
+        ],
+        "responses": [
+            "Menu utama:\n1. Produk\n2. Harga\n3. Diskon\n4. Pemesanan\n5. Lokasi dan Jam Operasional\n6. Hubungi Admin\n7. Informasi media sosial\n0. Menu\nPilih menu dengan mengetikkan angkanya. Anda juga bisa mengetik pertanyaan lainnya untuk informasi lebih lengkap. Semoga ini membantu dan selamat berbelanja!",
+            "Silahkan pilih opsi berikut untuk melihat informasi lebih lanjut:\n1. Produk\n2. Harga\n3. Diskon\n4. Pemesanan\n5. Lokasi dan Jam Operasional\n6. Hubungi Admin\n7. Informasi media sosial\n0. Menu\nSilakan ketik angka sesuai dengan menu di bawah ini untuk melanjutkan. Jika ada pertanyaan lainnya, jangan ragu untuk mengetikkan. Semoga ini membantu dan selamat menikmati pengalaman berbelanja Anda!",
+            "Berikut adalah menu utama:\n1. Produk\n2. Harga\n3. Diskon\n4. Pemesanan\n5. Lokasi dan Jam Operasional\n6. Hubungi Admin\n7. Informasi media sosial\n0. Menu\nKetik angka yang sesuai dengan menu untuk melanjutkan. Anda juga bisa mengetikkan pertanyaan lainnya untuk informasi lebih lanjut. Semoga ini dapat membantu dan selamat berbelanja!",
+            "Menu utama kami terdiri dari:\n1. Produk\n2. Harga\n3. Diskon\n4. Pemesanan\n5. Lokasi dan Jam Operasional\n6. Hubungi Admin\n7. Informasi media sosial\n0. Menu\nPilih menu dengan mengetikkan angkanya. Anda juga bisa mengetik pertanyaan lainnya untuk informasi lebih lengkap. Semoga ini membantu dan selamat berbelanja!"
+        ]
+      },
+      {
+        "tag": "greeting",
+        "patterns": [
+          "halo",
+          "hai"
+        ],
+        "responses": [
+          "Halo! Selamat datang di Chatbot Jaya Custom Stoplamp. Ada yang bisa kami bantu untuk Anda hari ini?",
+          "Hai! Selamat datang di Chatbot Jaya Custom Stoplamp. Bagaimana kami bisa membantu Anda?",
+          "Hai! Selamat datang di layanan Chatbot Jaya Custom Stoplamp. Apa yang dapat kami bantu untuk Anda hari ini?",
+          "Hi! Selamat datang di layanan Chatbot Jaya Custom Stoplamp. Ada yang bisa kami bantu?",
+          "Hello! Selamat datang di Chatbot Jaya Custom Stoplamp. Bagaimana kami dapat membantu Anda hari ini?"
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": [
+          "terima kasih",
+          "makasih",
+          "thank you",
+          "cukup membantu",
+          "thanks"
+        ],
+        "responses": [
+          "Terima kasih telah menghubungi Jaya Custom Stoplamp! Senang bisa membantu.",
+          "Dengan senang hati! Jika ada pertanyaan lain, tim Jaya Custom Stoplamp siap membantu.",
+          "Kami di Jaya Custom Stoplamp mengucapkan terima kasih! Semoga hari Anda menyenangkan.",
+          "Jangan sungkan untuk kembali bertanya. Tim Jaya Custom Stoplamp selalu siap membantu Anda!",
+          "Terima kasih! Kami di Jaya Custom Stoplamp senang dapat membantu Anda. Jangan ragu untuk menghubungi kami lagi."
+        ]
+      }
+    ]
+  }
+
+  
